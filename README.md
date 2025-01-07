@@ -1,3 +1,3 @@
 # -git-github
-Mastering on Git&amp;GitHub 
+Mastering on Git&amp;GitHub.
 Author - Aastha Kumari
